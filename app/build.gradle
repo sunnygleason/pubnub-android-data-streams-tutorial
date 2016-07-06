@@ -23,9 +23,9 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
     compile group: 'com.pubnub', name: 'pubnub', version: '4.0.5'
-    compile group: 'com.fasterxml.jackson.core', name: 'jackson-core', version: '2.7.5'
-    compile group: 'com.fasterxml.jackson.core', name: 'jackson-annotations', version: '2.7.5'
-    compile group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.7.5'
+    compile group: 'com.fasterxml.jackson.core', name: 'jackson-core', version: '2.7.3'
+    compile group: 'com.fasterxml.jackson.core', name: 'jackson-annotations', version: '2.7.3'
+    compile group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.7.3'
     compile group: 'com.google.guava', name: 'guava', version: '19.0'
     compile group: 'joda-time', name: 'joda-time', version: '2.9.4'
     compile 'com.android.support:appcompat-v7:24.0.0'
