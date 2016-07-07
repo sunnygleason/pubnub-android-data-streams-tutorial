@@ -1,8 +1,8 @@
 package com.pubnub.example.android.datastream.pubnubdatastreams;
 
 public class Constants {
-    public static final String PUBNUB_PUBLISH_KEY = "demo";     // Replace with your publish key
-    public static final String PUBNUB_SUBSCRIBE_KEY = "demo";   // Replace with your subscribe key
+    public static final String PUBNUB_PUBLISH_KEY = "YOUR_PUB_KEY";     // Replace with your publish key
+    public static final String PUBNUB_SUBSCRIBE_KEY = "YOUR_SUB_KEY";   // Replace with your subscribe key
 
     public static final String CHANNEL_NAME = "0xABABABAB";     // replace with more meaningful channel name
     public static final String MULTI_CHANNEL_NAMES = "0xCDCDCDCD,0xEFEFEFEF,0xGHGHGHGH";    // ditto
